@@ -1,0 +1,4 @@
+﻿  stdafx.cpp
+  Zadacha3.cpp
+d:\projects\c projects\homework4\zadacha3\zadacha3.cpp(12): warning C4018: '<': signed/unsigned mismatch
+  Zadacha3.vcxproj -> D:\Projects\C projects\Homework4\Debug\Zadacha3.exe
